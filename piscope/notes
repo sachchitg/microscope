@@ -1,0 +1,8 @@
+Focus is a problem
+Over exposure is a problem
+Lighting is a problem
+
+1. Check if factor can be used for finer movement at least on Z
+2. Camera exposure - gain - analog gain - awb - iso - what should be controlled and how?
+3. what is the effective area on the captured image that can be used for stitching?
+4. Stitching algorithm - OpenCV 
